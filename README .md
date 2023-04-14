@@ -6,7 +6,7 @@ Our project is a fitness and sports application designed to help users achieve t
 
 
 <p align="center">
-  <img src="(https://i.pinimg.com/originals/ff/d2/b1/ffd2b1502f7ad1c081e559672a6fad44.jpg)" width="350" title="hover text">
+  <img src="https://i.pinimg.com/originals/ff/d2/b1/ffd2b1502f7ad1c081e559672a6fad44.jpg" width="350" height="200" title="hover text">
 </p>
 
 
